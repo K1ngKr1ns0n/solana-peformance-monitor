@@ -1,5 +1,4 @@
 # solana-peformance-monitor
-Um script Python que monitora a peformance (TPS) da rede solana e gera um gráfico interativo usando Plotly
 # 📈 Monitor de Performance da Rede Solana
 
 Este projeto é um script em Python que monitora a performance (Transações Por Segundo - TPS) da rede Solana. Ele utiliza a API RPC pública, processa os dados com Pandas e gera um gráfico interativo com Plotly.
@@ -9,8 +8,8 @@ Este projeto foi criado como parte do meu portfólio de Engenharia de Software e
 ## 🚀 Resultado
 
 Aqui está um exemplo do gráfico interativo (salvo como HTML) gerado pelo script:
+<img width="1820" height="919" alt="image" src="https://github.com/user-attachments/assets/990caf47-82b9-4af2-b80c-5c46fb4e3bf1" />
 
-*(Aqui você deve tirar um print screen do seu `solana_tps_chart.html` e colar a imagem aqui. O GitHub permite colar imagens direto no editor.)*
 
 ![Exemplo do Gráfico de TPS](caminho/para/sua/imagem.png)
 
